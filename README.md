@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3rChuss&layout=compact)](https://github.com/3rChuss/3rChuss)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=3rChuss.3rChuss)
