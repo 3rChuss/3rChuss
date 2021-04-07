@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://github.com/3rchuss/3rchuss/blob/master/images/code.png?raw=true" width="100%" height="320px" />
+<img align="center" alt="GIF" src="https://github.com/3rchuss/3rchuss/blob/master/images/code.png?raw=true" width="100%" height="500px" />
 
 ### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
