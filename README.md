@@ -15,8 +15,4 @@ I'm Jesus Abril, a self-taught Full Stack Web Developer and a Freelance from Gra
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3rchuss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/3rChuss"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/3rChuss" /></a></p>
-
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=3rChuss.3rChuss)
